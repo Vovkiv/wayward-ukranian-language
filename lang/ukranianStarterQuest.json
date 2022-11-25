@@ -15,12 +15,12 @@
 		"quest": {
 			"modStarterQuestWelcome": [
 				"Ласкаво просимо",
-				"{#--color-brown:Якщо ви новачок у Wayward, ці {/Квести для початківців/} допоможуть вам вижити, навчивши вас базовим навичкам. Цей, не обов'язковий, гайд займе приблизно 20-40 хвилин для завершення.}\n\nНатисність {BINDINGS:DialogQuests} показати/скрити це вікно.\n\nНатисніть \"{/Завершити квести/}\" щоб розпочати."
+				"{#--color-brown:Якщо ви новачок у Wayward, ці {/Квести для початківців/} допоможуть вам вижити, навчивши вас базовим навичкам. Цей, не обов'язковий, гайд займе приблизно 20-40 хвилин для завершення.}\n\nНатисність {BINDINGS:DialogQuests} показати/скрити це вікно.\n\nНатисніть \"{/Завершити квест/}\" щоб розпочати."
 			],
 
 			"modStarterQuestGearUp": [
 				"Екіпірування",
-				"{#--color-brown:Ви будете атакувати створіння предметом який екіпірован у головній руці. Давайте екіпіруємо предмет.}\n\n1. Відкрийите {(HELP/INTERFACE):діалог} вашої екіпіровки за допомогою клавіши {BINDINGS:DialogEquipment} або натисніть на іконку екіпіровки вгорі вашого екрану.\n\n2. Equip a tool or weapon by dragging it from your inventory to the equipment slot of your choice.\n\nAlternatively, you can {BINDINGS:GameItemEquipToggle} to toggle it equipped or not.\n\n{(HELP/HELD_ITEMS):Learn more about Held Items}"
+				"{#--color-brown:Ви будете атакувати створіння предметом який екіпірован у головній руці. Давайте екіпіруємо у неї щось.}\n\n1. Відкрийите {(HELP/INTERFACE):діалог} вашої екіпіровки за допомогою гарячих клавіш {BINDINGS:DialogEquipment} або натисніть на іконку екіпіровки вгорі вашого екрану.\n\n2. Екіпіруйте інструмент або зброю, перетягнувши її із інвентаря у слот правої або лівої руки.\n\nВи також можете скористатися {BINDINGS:GameItemEquipToggle} щоб екіпірувати чи зняти її.\n\n{(HELP/HELD_ITEMS):Learn more about Held Items}"
 			],
 
 			"modStarterQuestActionSlots": [
