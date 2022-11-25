@@ -2,25 +2,25 @@
 	"extends": "Ukranian",
 	"dictionaries": {
 		"questRequirement": {
-			"modStarterQuestActionSlots": "Add an item to an action slot",
-			"modStarterQuestLightCampfire": "Light a campfire",
-			"modStarterQuestStokeCampfire": "Stoke a campfire",
-			"modStarterQuestFillStill": "Pour water into a still",
-			"modStarterQuestAttachContainer": "Attach container to a still",
-			"modStarterQuestLightWaterStill": "Light a water still",
-			"modStarterQuestStokeWaterStill": "Stoke a water still",
-			"modStarterQuestGatherFromWaterStill": "Gather desalinated water from a still"
+			"modStarterQuestActionSlots": "Додайте предмет в слот швидкодії",
+			"modStarterQuestLightCampfire": "Розпаліть багаття",
+			"modStarterQuestStokeCampfire": "Підсиліть багаття паливом",
+			"modStarterQuestFillStill": "Налийте воду в дистилятор",
+			"modStarterQuestAttachContainer": "Приєднайте контейнер до дистилятора",
+			"modStarterQuestLightWaterStill": "Розпаліть вогонь для дистилятора",
+			"modStarterQuestStokeWaterStill": "Підсиліть вогонб дистилятора паливом",
+			"modStarterQuestGatherFromWaterStill": "Наберіть опріснену воду з дистиллятора"
 		},
 
 		"quest": {
 			"modStarterQuestWelcome": [
-				"Велкам",
-				"{#--color-brown:If you're new to Wayward, this {/Starter Quest/} can help you survive by teaching you the basics. This optional walkthrough will take approximately 20-40 minutes.}\n\nPress {BINDINGS:DialogQuests} to toggle this dialog.\n\nClick \"{/Complete Quest/}\" to start the quest line."
+				"Ласкаво просимо",
+				"{#--color-brown:Якщо ви новачок у Wayward, ці {/Квести для початківців/} допоможуть вам вижити, навчивши вас базовим навичкам. Цей, не обов'язковий, гайд займе приблизно 20-40 хвилин для завершення.}\n\nНатисність {BINDINGS:DialogQuests} показати/скрити це вікно.\n\nНатисніть \"{/Завершити квести/}\" щоб розпочати."
 			],
 
 			"modStarterQuestGearUp": [
-				"Gear Up",
-				"{#--color-brown:Attacking creatures will use items in your inventory when equipped to your main hand. Let's equip an item now.}\n\n1. Open your equipment {(HELP/INTERFACE):dialog} with {BINDINGS:DialogEquipment} or click the equipment icon at the top of the screen.\n\n2. Equip a tool or weapon by dragging it from your inventory to the equipment slot of your choice.\n\nAlternatively, you can {BINDINGS:GameItemEquipToggle} to toggle it equipped or not.\n\n{(HELP/HELD_ITEMS):Learn more about Held Items}"
+				"Екіпірування",
+				"{#--color-brown:Ви будете атакувати створіння предметом який екіпірован у головній руці. Давайте екіпіруємо предмет.}\n\n1. Відкрийите {(HELP/INTERFACE):діалог} вашої екіпіровки за допомогою клавіши {BINDINGS:DialogEquipment} або натисніть на іконку екіпіровки вгорі вашого екрану.\n\n2. Equip a tool or weapon by dragging it from your inventory to the equipment slot of your choice.\n\nAlternatively, you can {BINDINGS:GameItemEquipToggle} to toggle it equipped or not.\n\n{(HELP/HELD_ITEMS):Learn more about Held Items}"
 			],
 
 			"modStarterQuestActionSlots": [
