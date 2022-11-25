@@ -5,7 +5,8 @@
 	"author": "Volkov",
 	"github": "later",
 	"languages": [
-		"lang/ukranianLanguage"
+		"lang/ukranianLanguage",
+		"lang/ukranianStarterQuest"
 	],
 
 	"waywardVersion": "2.12.2-beta",
