@@ -5,7 +5,7 @@ Not yet usable.
 ~30% ready.
 License later.
 
-Dependencies(kinda...):
+Mods and other stuff that will be translated:
 
 * Built-in start quest mod english: https://github.com/WaywardGame/starterquest
 * Wayward english https://github.com/WaywardGame/english-language
