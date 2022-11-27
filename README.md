@@ -9,3 +9,4 @@ Dependencies(kinda...):
 
 * Built-in start quest mod english: https://github.com/WaywardGame/starterquest
 * Wayward english https://github.com/WaywardGame/english-language
+* debug tool made by wayward devs https://github.com/WaywardGame/debugtools
