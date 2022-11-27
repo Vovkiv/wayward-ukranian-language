@@ -2,7 +2,7 @@ WIP.
 Ukranian language.
 Beta 2.12.2.
 Not yet usable.
-~15% ready.
+~30% ready.
 License later.
 
 Dependencies(kinda...):
