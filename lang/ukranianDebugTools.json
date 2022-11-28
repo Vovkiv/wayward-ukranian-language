@@ -2,13 +2,13 @@
 	"extends": "Ukranian",
 	"dictionaries": {
 		"message": {
-			"modDebugToolsFailureTileBlocked": "Cannot {0}, the tile is blocked."
+			"modDebugToolsFailureTileBlocked": "Неможливо {0}, плитка заблокована."
 		},
 		"source": {
-			"modDebugToolsDebugTools": "Debug Tools"
+			"modDebugToolsDebugTools": "Інструменти дебагу"
 		},
 		"menuBarButton": {
-			"modDebugToolsDialog": "Debug Tools"
+			"modDebugToolsDialog": "Інструменти дебагу"
 		},
 		"bindable": {
 			"modDebugToolsToggleDialog": "Toggle Tools Dialog",
@@ -21,15 +21,15 @@
 			"modDebugToolsCameraMoveDown": "Camera Down",
 			"modDebugToolsCameraMoveLeft": "Camera Left",
 			"modDebugToolsCameraMoveRight": "Camera Right",
-			"modDebugToolsPaint": "Paint",
+			"modDebugToolsPaint": "Малювання",
 			"modDebugToolsErasePaint": "Erase Paint",
 			"modDebugToolsClearPaint": "Clear Paint",
-			"modDebugToolsCancelPaint": "Turn Off Paint Mode",
+			"modDebugToolsCancelPaint": "Вимкнути режим малювання",
 			"modDebugToolsCompletePaint": "Complete/Commit Paint",
-			"modDebugToolsInspectLocalPlayer": "Inspect Local Player",
-			"modDebugToolsTeleportLocalPlayer": "Teleport Local Player",
-			"modDebugToolsHealLocalPlayer": "Heal Local Player",
-			"modDebugToolsToggleNoClip": "Toggle No-clip",
+			"modDebugToolsInspectLocalPlayer": "Оглянути локального гравця",
+			"modDebugToolsTeleportLocalPlayer": "Телепортувати локального гравця",
+			"modDebugToolsHealLocalPlayer": "Вилікувати локального гравця",
+			"modDebugToolsToggleNoClip": "Переключити no-clip",
 			"modDebugToolsCloseInspectDialog": "Cancel Inspection"
 		},
 		"modDebugToolsDebugTools": {
@@ -57,7 +57,7 @@
 			"buttonToggleLighting": "Lighting {BINDINGS:ModDebugToolsToggleFullVisibility}",
 			"labelZoomLevel": "Zoom Level",
 			"zoomLevel": "{0}x",
-			"buttonUnlockCamera": "Unlock Camera {BINDINGS:ModDebugToolsToggleCameraLock}",
+			"buttonUnlockCamera": "Розблокувати камеру {BINDINGS:ModDebugToolsToggleCameraLock}",
 			"buttonResetRenderer": "Reset Renderer",
 			"buttonRefreshTiles": "Refresh Tiles",
 			"buttonReloadShaders": "Reload Shaders",
@@ -123,15 +123,15 @@
 			"inspectTerrain": "{#--text-secondary:Terrain:} {0}",
 			"labelChangeTerrain": "Change",
 			"entityName": "{#--text-secondary:{0}:} {1}",
-			"buttonKillEntity": "Kill",
-			"buttonHealEntity": "Heal",
-			"buttonTeleportEntity": "Teleport",
-			"buttonHealLocalPlayer": "Heal {BINDINGS:ModDebugToolsHealLocalPlayer}",
-			"buttonTeleportLocalPlayer": "Teleport {BINDINGS:ModDebugToolsTeleportLocalPlayer}",
-			"buttonCloneEntity": "Clone",
+			"buttonKillEntity": "Вбити",
+			"buttonHealEntity": "Лікувати",
+			"buttonTeleportEntity": "Телепортувати",
+			"buttonHealLocalPlayer": "Лікувати {BINDINGS:ModDebugToolsHealLocalPlayer}",
+			"buttonTeleportLocalPlayer": "Телепортувати {BINDINGS:ModDebugToolsTeleportLocalPlayer}",
+			"buttonCloneEntity": "Клонувати",
 			"buttonClearInventory": "Remove All Contained Items",
 			"labelBulkItemOperations": "Bulk Item Actions",
-			"killEntityDeathMessage": "by l33t h4x0r",
+			"killEntityDeathMessage": "автор: l33t h4x0r",
 			"corpseName": "{#--text-secondary:Corpse:} {0}",
 			"buttonResurrectCorpse": "Resurrect",
 			"buttonRemoveThing": "Remove",
@@ -167,8 +167,8 @@
 			"actionResurrect": "resurrect {0}",
 			"actionClone": "clone {0}",
 			"actionTeleport": "{0?teleport {0}:Teleport}",
-			"inspectionTemperature": "Temp: {#--TEXT-PRIMARY:{0}}",
-			"inspectionTemperatureBiome": "Biome temp: {#--TEXT-PRIMARY:{0}}",
+			"inspectionTemperature": "Температура: {#--TEXT-PRIMARY:{0}}",
+			"inspectionTemperatureBiome": "Тип біома: {#--TEXT-PRIMARY:{0}}",
 			"inspectionTemperatureTimeModifier": "Time mod: {#--TEXT-PRIMARY:{0}}",
 			"inspectionTemperatureLayerModifier": "Layer mod: {#--TEXT-PRIMARY:{0}}",
 			"inspectionTemperatureTileCalculated": "Tile mod: {#--TEXT-PRIMARY:{0}}",
