@@ -3,13 +3,12 @@
 	"description": "Ukranian Language",
 	"version": "1.0.0",
 	"author": "Volkov",
-	"github": "later",
+	"github": "https://github.com/Vovkiv/wayward-ukranian-language",
 	"languages": [
 		"lang/ukranianLanguage",
-		"lang/ukranianStarterQuest"
+		"lang/ukranianStarterQuest",
+		"lang/ukranianDebugTools"
 	],
-
-	"waywardVersion": "2.12.2-beta",
 
 	"publishedFileId": "later"
 }
