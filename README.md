@@ -1,6 +1,7 @@
 Translating mod for Ukranian language for game Wayward (https://www.waywardgame.com/)
 
-Current translation version: 0.0 (Versioning will follow next formula: gameTranslation.modsTranslation. gameTranslation - when something will be changed, deleted, added, etc in game translation, this number will go up. modsTranslation when something changed in mods)
+Current translation version: 0.0
+(Follow next formula: gameTranslation.modsTranslation. gameTranslation - when something will be changed, deleted, added, etc in game translation, this number will go up. modsTranslation when something changed in mods.)
 
 What translated and what version targeted:
 
