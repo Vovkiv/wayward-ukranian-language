@@ -1,6 +1,6 @@
-Translating mod for Ukranian language for game Wayward (https://www.waywardgame.com/)
+# Failed to finish.
 
-Current translation project version: 1.0.0
+Translating mod for Ukranian language for game Wayward (https://www.waywardgame.com/)
 
 Is translated and what version targeted:
 
